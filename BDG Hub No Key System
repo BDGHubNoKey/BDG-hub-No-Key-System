@@ -5,7 +5,7 @@ OrionLib:MakeNotification({
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
-local Window = OrionLib:MakeWindow({Name = "BDG Hub | V1.0.5 | VIP |", HidePremium = false, SaveConfig = true, ConfigFolder = "BDG Hub | VIP |", IntroText = "Welcome To BDG Hub"})
+local Window = OrionLib:MakeWindow({Name = "BDG Hub | V1.0.5 | VIP |", HidePremium = false, SaveConfig = true, ConfigFolder = "BDG Hub | VIP |", IntroText = "Welcome To BDG Hub | VIP |"})
 local Tab = Window:MakeTab({
 	Name = "Lumber tycoon 2",
 	Icon = "rbxassetid://4483345998",
