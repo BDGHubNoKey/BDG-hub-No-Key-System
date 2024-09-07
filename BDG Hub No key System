@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/bdgxs/BDG-Key-System/main/Ui')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/bdgxs/BDG-Key-System/main/Ui'))()
 OrionLib:MakeNotification({
 	Name = "BDG Hub V1.5 | VIP |",
 	Content = "BDG Hub V1.5 Is Loading Thank you For For Choosing VIP!!",
